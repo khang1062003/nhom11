@@ -1,1 +1,1 @@
-rm system32
+rm system32;
